@@ -133,3 +133,9 @@ Sou apaixonada por Dados, e estou em constante evolução, para entregar anális
     </td>
   </tr>
 </table>
+
+## 📊 Minhas Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivianeAndrade1988&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeAndrade1988&layout=compact&theme=tokyonight&locale=pt-br)
