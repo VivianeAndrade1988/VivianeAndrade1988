@@ -10,9 +10,9 @@ Implantei melhorias que reduziram erros operacionais, e transformaram tarefas qu
 
 Possuo experiência em automação de relatórios com Power Query, aumentando a produtividade em até 98%.
 
-Utilizo SQL para coletar, tratar e analisar dados, transformando informações complexas em insights claros e acionáveis para a tomada de decisão.
+Utilizo SQL e Python para coletar, tratar e analisar dados, transformando informações complexas em insights claros e acionáveis para a tomada de decisão.
 
-Sou apaixonada por Dados, e estou em constante evolução, para entregar análises que apoiam decisões mais inteligentes nas empresas.
+Estou em constante evolução, para entregar análises que apoiam decisões mais inteligentes nas empresas.
 
 
 ---
