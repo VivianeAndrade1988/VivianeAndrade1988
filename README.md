@@ -4,13 +4,11 @@
 🚀 **Analista de Dados | Bi**  
 
 
-Sou formada em Administração e Ciência de Dados, com experiência em automação de processos, ETL e criação de dashboards estratégicos.
+Profissional formada em Administração e Ciência de Dados, com experiência em análise de processos, automação e desenvolvimento de soluções de Business Intelligence. 
 
-Implantei melhorias que reduziram erros operacionais, e transformaram tarefas que levavam horas, em processos executados em minutos.
+Atuo conectando problemas de negócio à análise de dados, estruturando hipóteses, investigando causas raiz e construindo dashboards para apoiar a tomada de decisão. 
 
-Possuo experiência em automação de relatórios com Power Query, aumentando a produtividade em até 98%.
-
-Utilizo SQL e Python para coletar, tratar e analisar dados, transformando informações complexas em insights claros e acionáveis para a tomada de decisão.
+Possuo conhecimentos em SQL, Power BI, Python e modelagem dimensional, além de facilidade para comunicação, storytelling com dados e trabalho em equipes multidisciplinares
 
 Estou em constante evolução, para entregar análises que apoiam decisões mais inteligentes nas empresas.
 
