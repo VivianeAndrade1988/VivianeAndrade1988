@@ -28,9 +28,7 @@ Estou em constante evolução, para entregar análises que apoiam decisões mais
 <a href="https://www.linkedin.com/in/viviane-de-andrade/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://sites.google.com/view/meuportfoliodataviv/in%C3%ADcio" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-4265F4?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+
 </p>
 
 ---
