@@ -48,7 +48,7 @@ Estou em constante evolução, para entregar análises que apoiam decisões mais
 -   
 ---
 
-## 📊 Hards Skills
+## 📊 Hard Skills
 
 <table>
   <tr>
